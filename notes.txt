@@ -1,0 +1,10 @@
+20-2-24
+I want to make a program that basically
+- Goes into each of my AWS bots folders
+- Checks the pybot.py file to get the base
+- Asks the user what value to use for said base, or uses a previously chosen value
+- Goes into the config file and updates the funds value
+
+I think this will be best done in python.
+I think I will copy the .py file to the pybots folder, like ~/pybots/set_funds.py.
+    - Then when I run it I can check for bots in my current dir
